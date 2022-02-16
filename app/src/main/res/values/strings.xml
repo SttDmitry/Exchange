@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="amount_of_roubles">введите кол-во рублей</string>
+    <string name="amount_of_exchange">amount</string>
+    <string name="rub">руб. это</string>
+    <string name="refresh">Обновить</string>
+    <string name="APP_PREFERENCES">mySettings</string>
+</resources>

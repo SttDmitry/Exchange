@@ -19,5 +19,4 @@
 Это скрнишот из эмулятора:
 
 ![Screen](https://github.com/SttDmitry/Exchange/blob/master/Screen.png "Screenshot")​
-
 ![Screen2](https://github.com/SttDmitry/Exchange/blob/master/Screen2.png "Screenshot2")​
